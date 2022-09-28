@@ -1,5 +1,21 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+# Olá! 
+### Seja mais que bem vindo(a)! 👋
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmjob&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmjob&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" width="42"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="42" width="42" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="42" width="42"/>
+          
+<div> 
+  <a href = "mailto:danielmarquesjob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/daniel-marques-dos-santos-47478a242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+          
 
 <!--
 **danielmjob/danielmJob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
