@@ -1,13 +1,5 @@
 ### Hi there 👋
-
-
-
-<a href="https://github.com/danielmjob/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielmjob&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/danielmjob/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielmjob&repo=convoychat" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **danielmjob/danielmJob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
